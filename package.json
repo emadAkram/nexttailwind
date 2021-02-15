@@ -20,6 +20,7 @@
   "homepage": "https://github.com/taylorbryant/next-starter-tailwind#readme",
   "dependencies": {
     "next": "10.0.4",
+    "next-pwa": "^5.0.5",
     "react": "17.0.1",
     "react-dom": "17.0.1"
   },
